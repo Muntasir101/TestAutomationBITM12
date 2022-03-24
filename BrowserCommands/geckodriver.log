@@ -313,8 +313,9 @@ DevTools listening on ws://localhost:62514/devtools/browser/141e965c-5a8d-4d1d-a
 1647955646811	Marionette	INFO	Listening on port 62519
 1647955647158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1647955752860	geckodriver	INFO	Listening on 127.0.0.1:62628
-1647955755906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62629" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileaOywtu"
+1647958236749	Marionette	INFO	Stopped listening on port 62519
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62629" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileaOywtu"
 1647955756221	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileaOywtu\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:62629/devtools/browser/4b814e24-dd9b-4ff1-a3d4-8d353becfa5e
