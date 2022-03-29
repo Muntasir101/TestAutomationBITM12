@@ -1,0 +1,172 @@
+1648556637756	geckodriver	INFO	Listening on 127.0.0.1:51191
+1648556640811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51192" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilePozjtI"
+1648556641309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilePozjtI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51192/devtools/browser/d7693353-810d-4bd7-aec8-72943d14f2f0
+1648556643810	Marionette	INFO	Listening on port 51198
+1648556643987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648556684872	Marionette	INFO	Stopped listening on port 51198
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648556750938	geckodriver	INFO	Listening on 127.0.0.1:59448
+1648556753990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59449" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileft0mcA"
+1648556754371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileft0mcA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59449/devtools/browser/4a3baccb-b7da-4e21-9e56-911dc9dca07f
+1648556756590	Marionette	INFO	Listening on port 59456
+1648556756653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648556764536	Marionette	INFO	Stopped listening on port 59456
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1648556865192	geckodriver	INFO	Listening on 127.0.0.1:59538
+1648556868249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59539" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehKb37Z"
+1648556868579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehKb37Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59539/devtools/browser/f3b251b9-f3d0-4969-a811-8eef4ebdba86
+1648556870753	Marionette	INFO	Listening on port 59544
+1648556870913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648556877176	Marionette	INFO	Stopped listening on port 59544
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\UseR\AppData\Local\Temp\rust_mozprofilehKb37Z\protections.sqlite
+1648556899206	geckodriver	INFO	Listening on 127.0.0.1:59602
+1648556902243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59603" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileY6bOjE"
+1648556902565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileY6bOjE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59603/devtools/browser/a50dfb21-1db1-4538-80ce-740d3d6a6f29
+1648556904837	Marionette	INFO	Listening on port 59609
+1648556904908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648556910775	Marionette	INFO	Stopped listening on port 59609
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\UseR\AppData\Local\Temp\rust_mozprofileY6bOjE\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1648557204448	geckodriver	INFO	Listening on 127.0.0.1:50490
+1648557207503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50491" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileT6KPmI"
+1648557207832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileT6KPmI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50491/devtools/browser/95104247-069d-49f3-a5cb-e1f699b9d870
+1648557210260	Marionette	INFO	Listening on port 50498
+1648557210685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648557232775	Marionette	INFO	Stopped listening on port 50498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648557236152	geckodriver	INFO	Listening on 127.0.0.1:50572
+1648557239193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50573" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilePnVViy"
+1648557239523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilePnVViy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50573/devtools/browser/ac0d96d1-dcde-4f83-b550-20e748d25fb1
+1648557241706	Marionette	INFO	Listening on port 50579
+1648557241864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648557252211	Marionette	INFO	Stopped listening on port 50579
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648557281396	geckodriver	INFO	Listening on 127.0.0.1:50656
+1648557284433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50657" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileeyZZMR"
+1648557284755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileeyZZMR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50657/devtools/browser/90825a49-75a1-4fac-a825-8e2a854613ca
+1648557287013	Marionette	INFO	Listening on port 50663
+1648557287096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648557300502	Marionette	INFO	Stopped listening on port 50663
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648557308133	geckodriver	INFO	Listening on 127.0.0.1:50731
+1648557311181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50732" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileTPJnpb"
+1648557311510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileTPJnpb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50732/devtools/browser/d6b7da6d-717e-4b01-a5fc-20fc2178d0fc
+1648557313629	Marionette	INFO	Listening on port 50738
+1648557313842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648557322414	Marionette	INFO	Stopped listening on port 50738
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648557356802	geckodriver	INFO	Listening on 127.0.0.1:50825
+1648557359829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50826" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileQxebzA"
+1648557360179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileQxebzA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50826/devtools/browser/33a192c3-3703-4bc0-b7ef-03d31567eac7
+1648557363002	Marionette	INFO	Listening on port 50833
+1648557363510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648557386085	Marionette	INFO	Stopped listening on port 50833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648557393064	geckodriver	INFO	Listening on 127.0.0.1:60475
+1648557396114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60476" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileXoXMGb"
+1648557396446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileXoXMGb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60476/devtools/browser/ccabb3b5-bcd6-4b49-8a9f-d4201212c4de
+1648557398434	Marionette	INFO	Listening on port 60483
+1648557398786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648557409664	Marionette	INFO	Stopped listening on port 60483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648557801347	geckodriver	INFO	Listening on 127.0.0.1:51888
+1648557804378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51889" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehVOD2x"
+1648557804710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehVOD2x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51889/devtools/browser/ed18d47d-3e8c-4de9-b3c4-fe786fd98c2d
+1648557807088	Marionette	INFO	Listening on port 51895
+1648557807548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 1832 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648559139848	Marionette	INFO	Stopped listening on port 51895
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+browser/6d694b63-60bb-41f0-8fd8-f2e1b598e69b
+1648557892706	Marionette	INFO	Listening on port 63357
+1648557893037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 64 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14188, MediaDecoderStateMachine #1] WARNING: 2f641eb8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #1] WARNING: 2f640684200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 3930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14188, MediaDecoderStateMachine #1] WARNING: 2f6406842e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #1] WARNING: 2f63748e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #2] WARNING: 2f640684820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f640684580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63eda69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63e993200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f640684580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63eda69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63eda69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63eda69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63eda69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63e993200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f63e993200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f640684900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14188, MediaDecoderStateMachine #3] WARNING: 2f637431660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648559140965	Marionette	INFO	Stopped listening on port 63357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219bb392580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219bb392580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219c05a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219bb392580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219c05a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219c05a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219bb392580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219bb331740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14236, MediaDecoderStateMachine #3] WARNING: 219c05a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648559142112	Marionette	INFO	Stopped listening on port 63526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+

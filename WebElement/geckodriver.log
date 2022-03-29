@@ -129,7 +129,8 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1648126821973	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
-ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64833" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilem71kYQ"
+1648131245302	Marionette	INFO	Stopped listening on port 64103
+mote-debugging-port" "64833" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilem71kYQ"
 1648126376845	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilem71kYQ\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:64833/devtools/browser/6a934495-21a1-48b2-9588-300cf955a34a
@@ -201,8 +202,11 @@ DevTools listening on ws://localhost:49821/devtools/browser/0d40d980-695f-4ab6-a
 1648127331292	Marionette	INFO	Listening on port 49850
 1648127331330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1648127858210	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
-ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49906" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileBM4MMV"
-1648127388040	Marionette	INFO	Marionette enabled
+1648131245299	Marionette	INFO	Stopped listening on port 49850
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+FO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileBM4MMV\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:49906/devtools/browser/6b6a4d3b-21eb-46ce-acba-cefc788c5b03
 1648127390319	Marionette	INFO	Listening on port 49911
@@ -219,8 +223,11 @@ DevTools listening on ws://localhost:65367/devtools/browser/98fa70bb-149c-4605-8
 1648127584700	Marionette	INFO	Listening on port 65373
 1648127585225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1648128112426	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
-ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50941" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileWd2KzU"
-1648127638168	Marionette	INFO	Marionette enabled
+1648131245291	Marionette	INFO	Stopped listening on port 65373
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+FO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileWd2KzU\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:50941/devtools/browser/7acb34cc-f891-4199-8c97-daf48231e5bb
 1648127640481	Marionette	INFO	Listening on port 50948
@@ -303,7 +310,8 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1648131069313	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
-ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50555" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehbnOey"
+1648131245161	Marionette	INFO	Stopped listening on port 50448
+mote-debugging-port" "50555" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehbnOey"
 1648130618040	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehbnOey\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:50555/devtools/browser/65e737c8-26ae-4092-90ca-4b80774c5f99
@@ -313,8 +321,11 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1648131148111	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
-ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57195" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileSl9VYt"
-1648130699669	Marionette	INFO	Marionette enabled
+1648131245402	Marionette	INFO	Stopped listening on port 50561
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+FO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileSl9VYt\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:57195/devtools/browser/3fd35536-7376-4ac3-86e3-c31424891092
 1648130702026	Marionette	INFO	Listening on port 57201
@@ -322,18 +333,25 @@ DevTools listening on ws://localhost:57195/devtools/browser/3fd35536-7376-4ac3-8
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-1648130822082	geckodriver	INFO	Listening on 127.0.0.1:57315
-1648130825108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57316" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileyM6YOw"
-1648130825525	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileyM6YOw\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:57316/devtools/browser/b5cc31e8-3853-48ab-8956-38b241d9f60f
+1648131229713	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1648131245160	Marionette	INFO	Stopped listening on port 57201
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+:57316/devtools/browser/b5cc31e8-3853-48ab-8956-38b241d9f60f
 1648130827852	Marionette	INFO	Listening on port 57322
 1648130828283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-1648130935447	geckodriver	INFO	Listening on 127.0.0.1:63107
-1648130938467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63108" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilewbrq1X"
+1648131245547	Marionette	INFO	Stopped listening on port 57322
+8130938467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63108" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilewbrq1X"
 1648130938842	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilewbrq1X\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:63108/devtools/browser/861fb055-2a3c-4dad-8dbd-73074bcc83b8
@@ -342,8 +360,8 @@ DevTools listening on ws://localhost:63108/devtools/browser/861fb055-2a3c-4dad-8
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-1648130994670	geckodriver	INFO	Listening on 127.0.0.1:63194
-1648130997704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63195" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilepD1g81"
+1648131245547	Marionette	INFO	Stopped listening on port 63114
+8130997704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63195" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilepD1g81"
 1648130998089	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilepD1g81\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:63195/devtools/browser/3b079924-e3ab-47ef-aec8-c73032ab3ef8

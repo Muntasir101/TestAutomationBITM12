@@ -43,8 +43,11 @@ DevTools listening on ws://localhost:51638/devtools/browser/622af390-e309-46c0-8
 1648129587131	Marionette	INFO	Listening on port 51643
 1648129587289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1648130115012	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
-ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51703" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileWCIzKf"
-1648129642307	Marionette	INFO	Marionette enabled
+1648131245409	Marionette	INFO	Stopped listening on port 51643
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+FO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileWCIzKf\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:51703/devtools/browser/63c5c076-ee59-407c-8bd2-0afcdd61e467
 1648129644466	Marionette	INFO	Listening on port 51708
@@ -67,3 +70,7 @@ DevTools listening on ws://localhost:51762/devtools/browser/69e21116-a998-4d70-8
 1648129693414	Marionette	INFO	Listening on port 51767
 1648129693669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1648130221397	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1648131245171	Marionette	INFO	Stopped listening on port 51767
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
