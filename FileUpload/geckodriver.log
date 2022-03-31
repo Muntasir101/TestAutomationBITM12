@@ -1,0 +1,19 @@
+1648730085549	geckodriver	INFO	Listening on 127.0.0.1:49431
+1648730088593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49432" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileiNxUPq"
+1648730088922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileiNxUPq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49432/devtools/browser/a0ea7362-b4be-44ef-a619-abc2cdaf3437
+1648730091023	Marionette	INFO	Listening on port 49438
+1648730091240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cgi-lib.berkeley.edu"
+1648731456844	Marionette	INFO	Stopped listening on port 49438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57366" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileFnbtj3"
+1648730152990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileFnbtj3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57366/devtools/browser/c6c98e8b-d7ba-42a2-9c87-91d1e37c58ed
+1648730155004	Marionette	INFO	Listening on port 57374
+1648730155339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cgi-lib.berkeley.edu"
+1648730167321	Marionette	INFO	Stopped listening on port 57374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

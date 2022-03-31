@@ -105,24 +105,35 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:64603/devtools/browser/2a26420c-dbde-431f-a8b8-1083906d3c9a
 1648561709655	Marionette	INFO	Listening on port 64798
 1648561709687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1648561752940	geckodriver	INFO	Listening on 127.0.0.1:64875
-1648561755993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64876" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilez100TQ"
+1648562404395	Marionette	INFO	Stopped listening on port 64798
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+ng-port" "64876" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilez100TQ"
 1648561756331	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilez100TQ\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:64876/devtools/browser/4b0408c0-2c85-4baf-a59d-8d71955683ff
 1648561758593	Marionette	INFO	Listening on port 64881
 1648561758665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1648561857674	geckodriver	INFO	Listening on 127.0.0.1:64976
-1648561860728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64977" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilebSki4a"
-1648561861054	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilebSki4a\\search.json.mozlz4", (void 0)))
+1648562404506	Marionette	INFO	Stopped listening on port 64881
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+et: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilebSki4a\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:64977/devtools/browser/dd22eaa8-1358-4d80-bbe7-ab96d8be38b2
 1648561863079	Marionette	INFO	Listening on port 64982
 1648561863398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1648561958665	geckodriver	INFO	Listening on 127.0.0.1:56629
-1648561961692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56630" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofile8PTEhH"
-1648561962012	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofile8PTEhH\\search.json.mozlz4", (void 0)))
+1648562404403	Marionette	INFO	Stopped listening on port 64982
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofile8PTEhH\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:56630/devtools/browser/7f37b127-5d91-46a8-a0a5-fa67463ae833
 1648561964043	Marionette	INFO	Listening on port 56635
 1648561964355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session

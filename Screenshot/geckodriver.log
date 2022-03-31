@@ -1,0 +1,78 @@
+1648733318445	geckodriver	INFO	Listening on 127.0.0.1:50066
+1648733321495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50067" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileRhI64z"
+1648733321825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileRhI64z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50067/devtools/browser/854a0bd5-b223-41cd-b01d-f10a3c2304f6
+1648733323833	Marionette	INFO	Listening on port 50073
+1648733324152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648733326677	Marionette	INFO	Stopped listening on port 50073
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\UseR\AppData\Local\Temp\rust_mozprofileRhI64z\protections.sqlite
+1648733369245	geckodriver	INFO	Listening on 127.0.0.1:50136
+1648733372328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50137" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileeU31f6"
+1648733372659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileeU31f6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50137/devtools/browser/2ba140ce-4501-425e-818c-4d6c8c9f03f0
+1648733374632	Marionette	INFO	Listening on port 50144
+1648733374984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648733376986	Marionette	INFO	Stopped listening on port 50144
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\UseR\AppData\Local\Temp\rust_mozprofileeU31f6\protections.sqlite
+1648733937764	geckodriver	INFO	Listening on 127.0.0.1:51586
+1648733940799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51587" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilejv6Mpl"
+1648733941129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilejv6Mpl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51587/devtools/browser/86e23a41-c0e3-419c-9799-b8add86be1e9
+1648733943175	Marionette	INFO	Listening on port 64500
+1648733943457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648733952431	Marionette	INFO	Stopped listening on port 64500
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648733982987	geckodriver	INFO	Listening on 127.0.0.1:64573
+1648733986038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64574" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilebtSXMt"
+1648733986361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilebtSXMt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64574/devtools/browser/b3212551-1101-459e-8baf-fd20572bd8f7
+1648733988367	Marionette	INFO	Listening on port 64580
+1648733988695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648733997610	Marionette	INFO	Stopped listening on port 64580
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

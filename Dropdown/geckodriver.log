@@ -170,3 +170,26 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
 
+1648729169875	geckodriver	INFO	Listening on 127.0.0.1:61974
+1648729172910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61975" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilez3PjRi"
+1648729173252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilez3PjRi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61975/devtools/browser/8a2dd539-528b-44f6-8e38-124137b59161
+1648729175204	Marionette	INFO	Listening on port 61980
+1648729175561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648729179418	Marionette	INFO	Stopped listening on port 61980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1648729549511	geckodriver	INFO	Listening on 127.0.0.1:64448
+1648729552548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64449" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilega72eJ"
+1648729552884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilega72eJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64449/devtools/browser/b2cc8b6a-ba4f-4799-a6be-8c501906ea04
+1648729554937	Marionette	INFO	Listening on port 64454
+1648729555207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648730082944	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1648731456219	Marionette	INFO	Stopped listening on port 64454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
