@@ -1,0 +1,116 @@
+1649328200908	geckodriver	INFO	Listening on 127.0.0.1:64560
+1649328203946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64561" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilesrku5G"
+1649328204295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilesrku5G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64561/devtools/browser/62ccba3d-07be-4f3c-a6f2-c676a0c5160e
+1649328206649	Marionette	INFO	Listening on port 64566
+1649328207125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649328213186	Marionette	INFO	Stopped listening on port 64566
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1649328324220	geckodriver	INFO	Listening on 127.0.0.1:64642
+1649328327293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64643" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileVTbU0K"
+1649328327620	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileVTbU0K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64643/devtools/browser/cccef32a-ade7-40b0-b48e-9f8d20876ae9
+1649328329662	Marionette	INFO	Listening on port 64649
+1649328329946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649328335047	Marionette	INFO	Stopped listening on port 64649
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1649328451362	geckodriver	INFO	Listening on 127.0.0.1:64138
+1649328454408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64139" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileLzCNEs"
+1649328454725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileLzCNEs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64139/devtools/browser/f4f7a5f9-225a-4703-b8bd-4e42bef2157b
+1649328456696	Marionette	INFO	Listening on port 64144
+1649328457071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649328465705	Marionette	INFO	Stopped listening on port 64144
+1649328951691	geckodriver	INFO	Listening on 127.0.0.1:59736
+1649328954773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59737" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofiletPvgBS"
+1649328955103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofiletPvgBS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59737/devtools/browser/291b8dae-e7c8-4345-9ce1-c9e21b99d537
+1649328957085	Marionette	INFO	Listening on port 59743
+1649328957437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649328978749	Marionette	INFO	Stopped listening on port 59743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649329059098	geckodriver	INFO	Listening on 127.0.0.1:53075
+1649329062141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53076" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileOBpo28"
+1649329062478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileOBpo28\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53076/devtools/browser/00270289-cf46-4931-8ad4-7155957bfbc8
+1649329064480	Marionette	INFO	Listening on port 53081
+1649329064794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649329073133	Marionette	INFO	Stopped listening on port 53081
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649329445799	geckodriver	INFO	Listening on 127.0.0.1:55183
+1649329448871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55184" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofile6vhZXl"
+1649329449196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofile6vhZXl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55184/devtools/browser/83f2d3f8-36bf-45b4-87c2-a6a02f1c6b91
+1649329451535	Marionette	INFO	Listening on port 55189
+1649329452027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649329458695	Marionette	INFO	Stopped listening on port 55189
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+

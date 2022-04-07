@@ -4,11 +4,11 @@ from selenium.webdriver.firefox.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.by import By
 
+
 class Login(unittest.TestCase):
     def test_login_TC001_valid(self):
         driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
         driver.get("https://demo.opencart.com/")
-
 
         my_account = driver.find_element(By.LINK_TEXT, 'My Account')
         my_account.click()
@@ -103,6 +103,7 @@ class Login(unittest.TestCase):
         self.assert_(True)
 
         driver.close()
+
 
 if __name__ == '__main__':
     unittest.main
